@@ -1,6 +1,7 @@
 # [CS50x](https://cs50.harvard.edu/x/2020/) : Introduction to Computer Science.
 
-### My solutions for all the problem sets.
+### I'll post various solutions to the Problem sets with comments to help what is happening.
+### I will also post code snippets for various algorigthms to get their general Idea.
 
 ---
 
@@ -16,5 +17,4 @@
 
 <br />
 <br />
-
 ---
